@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Logo Inventarium" width="750"/>
+  <img src="logo.png" alt="Logo Inventarium" width="700"/>
 </p>
 
 O **Inventarium** é uma plataforma intuitiva e acessível de controle de estoque, criada para descomplicar a gestão de produtos em pequenas e médias empresas.  
