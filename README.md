@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/logo.png" alt="Logo Inventarium" width="300"/>
+  <img src="inventarium/logo.png" alt="Logo Inventarium" width="300"/>
 </p>
 
 # INVENTARIUM  
@@ -55,34 +55,15 @@ Nosso foco é a **usabilidade**, permitindo que qualquer usuário consiga cadast
 - Maven  
 - Banco de Dados MySQL ou PostgreSQL  
 
-### Frontend
+### Passos
 ```bash
+# Executar o frontend
 cd inventarium-frontend
 npm install
 ng serve
+# Acesse em: http://localhost:4200
 
-Acesse em: http://localhost:4200
-
-### Backend
+# Executar o backend
 cd inventarium-backend
 mvn spring-boot:run
-
-
-API disponível em: http://localhost:8080
-
-
-Diferenciais
-
-Custo acessível para PMEs.
-
-Logs completos de operações.
-
-Personalização por segmento (varejo, indústria, serviços).
-
-Interface simples e amigável.
-
-Time
-
-Rayssa Borges – Hippie, Product Owner
-
-Nathan Zanelato – Hacker
+# API disponível em: http://localhost:8080
