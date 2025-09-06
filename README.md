@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Logo Inventarium" width="300"/>
+  <img src="logo.png" alt="Logo Inventarium" width="600"/>
 </p>
 
 Seu controle de estoque, simplificado.
