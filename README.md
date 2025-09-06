@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="logo.png" alt="Logo Inventarium" width="600"/>
+  <img src="logo.png" alt="Logo Inventarium" width="750"/>
 </p>
-
-Seu controle de estoque, simplificado.
 
 O **Inventarium** é uma plataforma intuitiva e acessível de controle de estoque, criada para descomplicar a gestão de produtos em pequenas e médias empresas.  
 Nosso foco é a **usabilidade**, permitindo que qualquer usuário consiga cadastrar, gerenciar e acompanhar movimentações de estoque de forma rápida e confiável.  
